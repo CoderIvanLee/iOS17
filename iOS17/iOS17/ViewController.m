@@ -23,6 +23,8 @@
     NSLog(@"ceshi");
     
     NSLog(@"哈哈");
+    
+    NSLog(@"无法提交内容");
 }
 
 - (void)didReceiveMemoryWarning {
