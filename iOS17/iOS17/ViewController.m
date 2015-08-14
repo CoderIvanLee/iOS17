@@ -21,6 +21,8 @@
     NSLog(@"常量");
     
     NSLog(@"ceshi");
+    
+    NSLog(@"哈哈");
 }
 
 - (void)didReceiveMemoryWarning {
